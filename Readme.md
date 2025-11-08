@@ -9,18 +9,19 @@ It provides insights into **revenue trends**, **profitability**, and **customer 
 
 | File Name | Description |
 |------------|-------------|
-| `coffee_sales_data.xlsx` | Raw dataset containing coffee shop sales transactions |
+| `` | Raw dataset containing coffee shop sales transactions |
 | `Coffee_Sales_Dashboard.xlsx` | Interactive Excel dashboard with charts, KPIs, and slicers |
-| `Coffee_Sales_Analysis_Report.pdf` | Detailed report with visuals and insights |
 | `images/dashboard_screenshot.png` | Screenshot of the Excel dashboard |
 | `docs/Analysis_Steps.txt` | Step-by-step explanation of the analysis process |
 | `.gitignore` | Files/folders to ignore in version control |
+---
+## Raw dataset containing coffee shop sales transactions
 
 ---
 
 ## 📸 Dashboard Preview
 
-![Coffee Shop Dashboard](images/dashboard_screenshot.png)
+![Coffee Shop Dashboard](images/dashboard_screenshot_2025-11-08 214511.png)
 
 ---
 
