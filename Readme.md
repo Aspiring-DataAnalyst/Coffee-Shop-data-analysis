@@ -15,14 +15,10 @@ It provides insights into **revenue trends**, **profitability**, and **customer 
 | `docs/Analysis_Steps.txt` | Step-by-step explanation of the analysis process |
 | `.gitignore` | Files/folders to ignore in version control |
 ---
-## Raw dataset containing coffee shop sales transactions
-[Download Excel file](https://github.com/Aspiring-DataAnalyst/CoffeeShopDataAnalysis/raw/main/CoffeeShopSalesData.xlsx)
-
----
 
 ## 📸 Dashboard Preview
 
-![Coffee Shop Dashboard](images/dashboard_screenshot[_2025-11-08 214511.png](https://1drv.ms/i/c/83915c119d4e9154/Ee_L9UIiCF5AonV7-bN2EyABQ6u2YsODVGGB6PuIqXx9Gg?e=b1ifD1))
+![Coffee Shop Dashboard](images/dashboard_screenshot.png)
 
 ---
 
